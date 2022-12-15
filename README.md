@@ -20,6 +20,7 @@ A separate filing technique was created for each map and named the same.
 Within each file, there are “index.html”, and static folders. The static folder contains css and .js files.
 
 The file creation format is as follows.
+
 <img width="159" alt="Screen Shot 2022-12-15 at 2 03 12 PM" src="https://user-images.githubusercontent.com/26927158/207965886-df003309-260a-4007-81e2-843384fafa5b.png">
 
 The “index.html” information includes the title of the page created in our web browser and Leaflet CSS, D3 Javascript and Page CSS information. However, we must create the path of the files in the folder on the computer correctly so that when we click on index.html, the website opened by the browser can connect with all the files. If the path containing our CSS, API key and JavaScript file is not formatted correctly, we will not be able to obtain the desired map or image in our web browser.
