@@ -18,6 +18,7 @@ Client requested to create a map with all earthquake information about past 7 da
 The HTML file is the environment where the codes written in CSS and JavaScript interact with the map. Details of all work and code pieces on the map can be accessed via the Javascript file.
 A separate filing technique was created for each map and named the same.
 Within each file, there are “index.html”, and static folders. The static folder contains css and .js files.
+
 The file creation format is as follows.
 <img width="159" alt="Screen Shot 2022-12-15 at 2 03 12 PM" src="https://user-images.githubusercontent.com/26927158/207965886-df003309-260a-4007-81e2-843384fafa5b.png">
 
