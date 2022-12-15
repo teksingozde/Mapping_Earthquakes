@@ -54,7 +54,7 @@ Map 5 shows the magnitude and intensity of the earthquakes that have occurred in
 
 #### Map 6. Past 7 Days Satellite Street Earthquakes
 <img width="1276" alt="SatelliteStreets_Earthquakes_Past7Days" src="https://user-images.githubusercontent.com/26927158/207966980-91298f74-c1aa-49ff-a656-443d70549625.png">
-Map 5 shows the magnitude and intensity of the earthquakes that have occurred in the last 7 days. The difference from the Map 5 image is that the map is created in satellite format. There is no tectonic plate visualization on this map.
+Map 6 shows the magnitude and intensity of the earthquakes that have occurred in the last 7 days. The difference from the Map 5 image is that the map is created in satellite format. There is no tectonic plate visualization on this map.
 
 ## Summary
 In general, if a result is created in terms of visualizations, earthquakes of 5 and above do not occur much. Generally, it is observed that earthquakes of 4-5 magnitude and 1-2 magnitude occur. Earthquake magnitudes of 4.5 and above are called major earthquakes and are visualized on the map.
